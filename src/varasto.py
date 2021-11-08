@@ -1,5 +1,4 @@
 class Varasto:
-    # liian pitkä kommentti pylintin testaukseen aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
     def tarkista(self, tilavuus):
         if tilavuus > 0.0:
             return tilavuus
